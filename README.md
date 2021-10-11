@@ -1,4 +1,4 @@
-#twitter-topic-modeling
+# twitter-topic-modeling
 
 This week, we will use the techniques for recommender systems in an unexpected way to help us model topics found on Twitter. 
 In this homework you will practice extracting topics from tweets using matrix factorization. 
